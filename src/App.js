@@ -1,5 +1,3 @@
-import './App.css';
-
 import React, { Component } from 'react';
 import TodoContact from './components/TodoContact';
 import ContactsList from './components/ContactsList';
